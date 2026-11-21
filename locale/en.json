@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "GPT speed modes",
+    "description": "With a model ID starting with gpt-, use Speed next to the model picker to choose Default, Fast, or Ultrafast. The menu shows the tier reported by the server. /fast and /ultrafast are still available. Ultrafast requires Responses. By default, changes apply only to this conversation; you can opt in for all conversations using the same model. Faster tiers may cost more."
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "GPT 加速模式",
+    "description": "选择 ID 以 gpt- 开头的模型后，在聊天框底部、模型选择器旁点「速度」，选择默认、Fast 或 Ultrafast。可在菜单查看服务端返回的档位；仍可使用 /fast、/ultrafast。Ultrafast 需要 Responses 协议。默认仅当前会话，也可手动选择对使用同一模型的所有会话生效；加速可能额外计费。"
+  }
+}

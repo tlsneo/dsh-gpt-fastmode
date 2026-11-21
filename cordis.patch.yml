@@ -1,0 +1,4 @@
+- insert:
+    - id: dsh-gpt-fastmode
+      name: '@tlsneo/dsh-gpt-fastmode'
+      config: {}
